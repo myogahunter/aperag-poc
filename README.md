@@ -9,3 +9,4 @@ Demonstrates PR title injection via `${{ github.event.pull_request.title }}`:
 - `PERSONAL_ACCESS_TOKEN` exposed as `GITHUB_TOKEN` env var to all steps
 
 Used for authorized security research only.
+:)
